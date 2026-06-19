@@ -1,24 +1,60 @@
-# C-LANGUAGE-LEARNING
-C language course notes, examples, and practice solutions.
-Welcome to my C programming repository.
+# C Language Learning
 
--This repository contains the code, exercises, and practice problems that I solve while learning the C programming language.
+Welcome to my C Programming Learning Repository.
 
-#Topics Covered:
-1)Basic Programs
-2)Variables and Data Types
-3)Operators
-4)Conditional Statements
-5)Loops
-6)Functions
-7)Arrays
-8)Strings
-9)Pointers
-10)Structures
-11)Practice Problems
+This repository contains my C language programs, practice problems, and exercises completed while learning programming fundamentals. The goal of this repository is to strengthen my problem-solving skills, improve coding proficiency, and build a strong foundation for software development and technical interviews.
 
-Purpose:
-The purpose of this repository is to improve my programming fundamentals, problem-solving skills, and prepare for coding interviews and placements.
+## Topics Covered
 
-Author:
+* Introduction to C
+* Variables and Data Types
+* Operators
+* Input and Output
+* Conditional Statements
+* Loops
+* Functions
+* Arrays
+* Strings
+* Pointers
+* Structures
+* File Handling
+* Practice Problems
+
+## Repository Structure
+
+```text
+Chapter 1/
+Chapter 2/
+Chapter 3/
+...
+```
+
+Each chapter contains programs and exercises related to specific C programming concepts.
+
+## Learning Goals
+
+* Build strong programming fundamentals
+* Improve logical thinking and problem-solving skills
+* Practice writing clean and efficient code
+* Prepare for coding interviews and placements
+
+## Technologies Used
+
+* C Programming Language
+* Visual Studio Code
+* Git & GitHub
+
+## Progress
+
+* [x] Chapter 1
+* [ ] Chapter 2
+* [ ] Chapter 3
+* [ ] Chapter 4
+* [ ] Chapter 5
+
+## Author
+
 Mohammad Danish
+
+Learning, practicing, and improving every day.
+
