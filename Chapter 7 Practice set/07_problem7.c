@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    int n1, n2, n3;
-    scanf("%d %d %d", &n1, &n2, &n3);
     int arr[3][10];
-    int mul[] = {n1,n2,n3};
+    int mul[] = {2, 7, 9};
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 10; j++)
