@@ -58,6 +58,7 @@ Each chapter contains programs and exercises related to specific C programming c
 * [x] Chapter 8
 * [x] Chapter 9
 * [x] Chapter 10
+* [x] Chapter 11
 
 ## Author
 
